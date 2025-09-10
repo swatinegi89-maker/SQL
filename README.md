@@ -1,0 +1,2 @@
+# SQL
+SQL Basic assignment
